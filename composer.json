@@ -1,0 +1,24 @@
+{
+    "name": "thecodebunny/thecodebunny-gdpr",
+    "description": "Thecodebunny GDPR",
+    "license": "MIT",
+    "authors": [{
+        "name": "Hemang Vyas",
+        "email": "thecodebunny@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thecodebunny\\GDPR\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thecodebunny\\GDPR\\Providers\\GDPRServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
