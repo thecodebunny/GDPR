@@ -1,8 +1,8 @@
 # Thecodebunny GDPR
 
-[![Latest Stable Version](https://poser.pugx.org/thecodebunny/thecodebunny-gdpr/v)](//packagist.org/packages/thecodebunny/thecodebunny-gdpr)
-[![Total Downloads](https://poser.pugx.org/thecodebunny/thecodebunny-gdpr/downloads)](//packagist.org/packages/thecodebunny/thecodebunny-gdpr)
-[![License](https://poser.pugx.org/thecodebunny/thecodebunny-gdpr/license)](https://github.com/thecodebunny/thecodebunny-gdpr/blob/master/LICENSE)
+[![Latest Stable Version](https://poser.pugx.org/thecodebunny/gdpr/v)](//packagist.org/packages/thecodebunny/gdpr)
+[![Total Downloads](https://poser.pugx.org/thecodebunny/gdpr/downloads)](//packagist.org/packages/thecodebunny/gdpr)
+[![License](https://poser.pugx.org/thecodebunny/gdpr/license)](https://github.com/thecodebunny/gdpr/blob/master/LICENSE)
 
 ## 1. Introduction:
 
@@ -30,7 +30,7 @@ Thecodebunny GDPR will help customers to Send Data Requests for Changing name , 
 Go to the root folder of **Thecodebunny** and run the following command:
 
 ```
-composer require thecodebunny/thecodebunny-gdpr
+composer require thecodebunny/gdpr
 ```
 
 Prepare your database table(s) by the following command:
